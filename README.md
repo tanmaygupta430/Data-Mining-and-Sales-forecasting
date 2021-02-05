@@ -1,1 +1,1 @@
-# Data-Mining-and-Sales-forecasting
+This repository contins the input files, my code, output file and the report that I created for analyzing the customer demographics and predicting the potential customers as a part of my virtual internship at KPMG US.
